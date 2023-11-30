@@ -50,4 +50,4 @@ Calculation of Option Price
 We calculated the option price using the Black-Scholes option pricing model, taking into account the historical volatility and the risk-free rate. The calculated option price is $[Insert Option Price], resulting in a cost of $[Insert Option Cost] for purchasing the put option contracts.
 
 **Conclusion**
-This report has provided a comprehensive analysis of the financial risks associated with Tesla stock and presented an option hedging strategy to protect investments. By understanding the VaR, CVaR, worst-case scenarios, and potential losses, investors can make informed decisions about risk management. The proposed protective put options strategy offers a way to safeguard investments in times of market uncertainty.
+This report has provided a comprehensive analysis of the financial risks associated with Tesla stock and presented an option hedging strategy to protect investments. By understanding the VaR, CVaR, worst-case scenarios, and potential losses, investors can make informed decisions about risk management. The proposed protective put options strategy offers a way to safeguard investments in times of market uncertainty. 
