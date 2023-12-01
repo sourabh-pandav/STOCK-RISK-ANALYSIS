@@ -51,3 +51,5 @@ We calculated the option price using the Black-Scholes option pricing model, tak
 
 **Conclusion**
 This report has provided a comprehensive analysis of the financial risks associated with Tesla stock and presented an option hedging strategy to protect investments. By understanding the VaR, CVaR, worst-case scenarios, and potential losses, investors can make informed decisions about risk management. The proposed protective put options strategy offers a way to safeguard investments in times of market uncertainty. 
+
+
