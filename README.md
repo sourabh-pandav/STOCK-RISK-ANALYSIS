@@ -31,11 +31,11 @@ To understand the potential impact of extreme events, we identified the date of 
 We conducted a loss analysis to estimate the total losses for different threshold scenarios (1%, 2%, 3%, 4%, and 5%). The results are presented in the following table:
 
 Threshold Scenario	Total Loss
-1%	[Insert Total Loss at 1%]
-2%	[Insert Total Loss at 2%]
-3%	[Insert Total Loss at 3%]
-4%	[Insert Total Loss at 4%]
-5%	[Insert Total Loss at 5%]
+1%	[Insert Total Loss at 1%].
+2%	[Insert Total Loss at 2%].
+3%	[Insert Total Loss at 3%].
+4%	[Insert Total Loss at 4%].
+5%	[Insert Total Loss at 5%].
 
 **Option Hedging Strategy**
 Protective Put Options
