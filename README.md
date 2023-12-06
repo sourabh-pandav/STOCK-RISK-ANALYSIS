@@ -1,7 +1,7 @@
 **Financial Risk Analysis and Option Hedging Strategy**
 
 **Introduction**
-This report provides a detailed analysis of financial risk associated with a specific stock (in this case, Tesla - TSLA) and outlines an option hedging strategy to mitigate that risk. The report is divided into several sections, each focusing on different aspects of the analysis and strategy.
+This report provides a detailed analysis of financial risk associated with a specific stock (in this case, Tesla - TSLA) and outlines an option hedging strategy to mitigate that risk. The report is divided into several sections, each focusing on different aspects of the analysis and strategy..
 
 **Background**
 Financial markets are inherently volatile, and investors face various risks when holding stocks. It is essential to assess these risks and implement risk management strategies to protect investments. In this report, we focus on Tesla, a well-known publicly-traded company.
